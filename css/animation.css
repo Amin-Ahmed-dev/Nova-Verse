@@ -28,11 +28,11 @@
 }
 @keyframes shield {
  0% {
-    transform: scale(0.7);
+    transform: scale(0.8);
     opacity: 0.5;
   }
   100% {
-    transform: scale(1.5);
+    transform: scale(1.2);
     opacity: 1;
   }
 }

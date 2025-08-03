@@ -1367,7 +1367,6 @@ input:focus {
 }
 .footer-shield-icon {
     animation: shield 3s infinite alternate;
-    padding: 0 1rem;
     color: var(--accent-primary);
 }
 .footer-copyright a {

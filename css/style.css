@@ -1367,7 +1367,7 @@ input:focus {
     font-size: 1.5rem;
 }
 .footer-shield-icon {
-    animation: shield 2s infinite alternate;
+    animation: shield 3s infinite alternate;
     padding: 0 0.5rem;
     color: var(--accent-primary);
 }
